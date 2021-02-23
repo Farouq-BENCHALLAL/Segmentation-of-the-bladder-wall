@@ -9,7 +9,7 @@ python predict.py -i image.png -o output.png
 Example : 
 
 ```bash
-python predict.py -i data/imgs/56.png -o output/56-output.png
+python predict.py -i data/imgs/56.png -o 56-output.png
 
 ```
 
